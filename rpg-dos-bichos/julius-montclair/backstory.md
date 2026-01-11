@@ -3,9 +3,9 @@
 ## Referências para Desenvolvimento
 
 ### Família e Conhecimentos
-- **Tio (Gêmeos):** Lele
-- **Tia:** (a definir)
-- **Pai:** Político (Gêmeos)
+- **Tio (Gêmeos):** [Dar um nome]
+- **Tia:** (a definir) [Dar um nome]
+- **Pai:** Político (Gêmeos) [Dar um nome]
 - **Mãe:** Maga Militar
 - **Avô Materno:** Zulkir de Evocação (desaparecido ao nascimento de Julius)
 - **Relíquia da Família:** Julius ouviu histórias sobre uma relíquia perdida da família Montclair.

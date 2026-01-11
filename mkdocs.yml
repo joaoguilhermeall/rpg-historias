@@ -23,3 +23,7 @@ theme:
   #   - navigation.tabs
     - navigation.sections
   #   - navigation.top
+
+plugins:
+  - search
+  - graph

@@ -29,13 +29,13 @@ A entrada principal é um grande portal de madeira e ferro sob um pórtico de m�
 
 A cor da chama do farol indica o estado atual da cidade de Aurora e da magia no reino:
 
--   **🔵 Azul Frio — *Lux Sapientiae***: Estado normal, simbolizando a ordem e o equilíbrio da cidade.
--   **⚪ Branco Luminoso**: Anuncia uma grande descoberta, revelação ou evento acadêmico de grande importância.
--   **🟣 Violeta Profundo**: Indica que um ritual arcano de alto risco está em andamento.
--   **🟢 Verde Esmeralda**: Alerta para uma crise, praga ou contaminação mágica, representando um desequilíbrio arcano.
--   **🟡 Dourado Radiante**: Sinaliza um decreto oficial ou uma convocação suprema da Academia de Magia.
--   **🔴 Vermelho Carmesim**: Adverte sobre uma ameaça militar imediata ou um ataque direto à cidade.
--   **⚫ Negro Ígneo**: Representa uma catástrofe arcana de nível existencial, uma ameaça de grande magnitude.
+-   **Azul Frio — *Lux Sapientiae***: Estado normal, simbolizando a ordem e o equilíbrio da cidade.
+-   **Branco Luminoso**: Anuncia uma grande descoberta, revelação ou evento acadêmico de grande importância.
+-   **Violeta Profundo**: Indica que um ritual arcano de alto risco está em andamento.
+-   **Verde Esmeralda**: Alerta para uma crise, praga ou contaminação mágica, representando um desequilíbrio arcano.
+-   **Dourado Radiante**: Sinaliza um decreto oficial ou uma convocação suprema da Academia de Magia.
+-   **Vermelho Carmesim**: Adverte sobre uma ameaça militar imediata ou um ataque direto à cidade.
+-   **Negro Ígneo**: Representa uma catástrofe arcana de nível existencial, uma ameaça de grande magnitude.
 
 ### O Interior da Biblioteca
 
