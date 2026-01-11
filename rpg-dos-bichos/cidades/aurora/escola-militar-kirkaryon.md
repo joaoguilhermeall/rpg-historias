@@ -5,6 +5,7 @@
 Durante a fundação um dos membros da equipe de fundadores de Aurora. Kirkaryon era um Guerreiro Paladino
 
 
+
 ---
 
 
