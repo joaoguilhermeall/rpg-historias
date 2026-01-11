@@ -22,7 +22,7 @@ theme:
   features:
   #   - navigation.tabs
     - navigation.sections
-  #   - navigation.top
+    - navigation.top
 
 plugins:
   - search

@@ -2,6 +2,23 @@
 
 Aurora é uma das cidades signatárias do Tratado de Celestia, localizada no centro-oeste do continente de Valaris. Reconhecida como um dos maiores centros arcanos do continente, Aurora é uma cidade onde a magia permeia cada aspecto da vida urbana, da economia à política, da defesa à cultura.
 
+## A Pedra Flutuante de Aurora
+
+A característica mais marcante e impossível de ignorar em Aurora é a **Pedra de Obsidiana Flutuante** — um monólito octagonal colossal de obsidiana negra que paira permanentemente a cerca de 300 metros de altura, diretamente sobre o complexo que abriga a Academia de Magia Arché Lys e a Escola Militar Kirkaryon.
+
+A pedra, com cerca de 50 metros de diâmetro, possui oito faces perfeitamente simétricas, cada uma representando uma das oito escolas tradicionais de magia. Cada face é gravada com runas arcanas antigas que brilham com cores distintas correspondentes à sua escola:
+
+- **Abjuração:** Azul prateado
+- **Conjuração:** Verde-esmeralda
+- **Adivinhação:** Violeta místico
+- **Encantamento:** Rosa cintilante
+- **Evocação:** Vermelho ardente
+- **Ilusão:** Âmbar cambiante
+- **Necromancia:** Verde espectral
+- **Transmutação:** Dourado alquímico
+
+À noite, as runas das oito faces brilham intensamente, iluminando o céu sobre Aurora com um caleidoscópio de cores mágicas. Dizem que a intensidade do brilho de cada face reflete o equilíbrio de poder entre as escolas de magia — quando uma escola ganha influência, sua face correspondente brilha mais forte.
+
 ---
 
 ## História e Fundação
