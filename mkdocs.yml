@@ -1,0 +1,25 @@
+site_name: RPG Histórias
+site_description: Histórias de nossas campanhas de RPG.
+
+# O diretório que contém os arquivos Markdown da sua campanha
+docs_dir: rpg-dos-bichos
+
+# Configuração do Tema
+theme:
+  name: material
+  language: pt
+  palette:
+    # Light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+  #   - navigation.tabs
+    - navigation.sections
+  #   - navigation.top
