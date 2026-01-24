@@ -2,7 +2,10 @@ site_name: RPG Histórias
 site_description: Histórias de nossas campanhas de RPG.
 
 # O diretório que contém os arquivos Markdown da sua campanha
-docs_dir: rpg-dos-bichos
+docs_dir: rpg-historias
+
+watch:
+  - rpg-historias
 
 # Configuração do Tema
 theme:
@@ -20,7 +23,7 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   features:
-  #   - navigation.tabs
+    - navigation.tabs
     - navigation.sections
     - navigation.top
 
