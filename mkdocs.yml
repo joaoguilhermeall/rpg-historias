@@ -27,6 +27,11 @@ theme:
     - navigation.sections
     - navigation.top
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 plugins:
   - search
   - graph

@@ -111,7 +111,7 @@ Durante essas viagens solitárias, Caldriel mergulhou em territórios sombrios:
 - O bem não fora suficiente para salvar aquela criança
 - Luminara o havia ressuscitado antes, mas não salvou os inocentes
 
-Ele **não abandonou a fé** — mas **abandonou a certeza**.
+> Eu não abro mão da minha fé, mas a certeza **não existe mais**.
 
 #### A Ruptura do Juramento
 
@@ -209,7 +209,7 @@ Fora de combate:
 
 ---
 
-## O Juramento Fraturado - Mecânicas Customizadas
+## O Juramento Fraturado
 
 ### Tenets do Juramento (Princípios Fraturados)
 
@@ -217,13 +217,20 @@ Fora de combate:
 *O método importa menos que o resultado. Se o medo evita uma morte, use o medo.*
 
 **Misericórdia aos que Merecem**
-*Todo inimigo tem chance de render-se. Todo culpado pode mudar. Mas nem todos escolhem.*
+*Todo inimigo tem oportunidade de render-se. Todo culpado pode mudar. Mas nem todos escolhem.*
 
 **A Escuridão Serve a Luz**
-*Poderes sombrios não são malignos por natureza. São ferramentas. O que importa é a mão que as empunha.*
+*Poderes sombrios não são malignos por natureza. Poderes são ferramentas para alcançar um objetivo maior, o que importa é a mão que os empunha.*
 
 **Carregar o Fardo**
 *Se usar a escuridão corrompe a alma, então que corrompa a minha. Não permitirei que outros façam esse sacrifício.*
+
+**Misericórdia é Força**
+*Poupar um inimigo é mais difícil que derrotá-lo. A verdadeira força está em evitar a morte, não em causá-la.*
+
+!!! info "Morte nunca é a resposta final"
+    O Fraturado não pode matar um inimigo que possua traços de humanidade (mesmo que sejam cruéis ou malignos). O golpe final sõ é efetivo contra inimigos que sejam completamente desumanizados (como undeads, monstros, criaturas sem consciência). Inimigos humanos e sencientes devem ser incapacitados ou rendidos, não mortos.
+
 
 ### Habilidades do Juramento Fraturado
 

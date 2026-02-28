@@ -81,4 +81,6 @@ Durante um conselho da cidade de Bassing, Caldriel foi morto por Iggy Tempest, m
 
 ### A Separação e os Eventos do Timeskip (23 anos)
 
-Após a batalha com o Dragão de Prata Sylvie, a morte de Keyleth e os eventos que se seguiram, Caldriel decidiu se afastar temporariamente do grupo da Ordem do Crepúsculo e seguir sozinho pelo continente de Ember. Ele sentiu a necessidade de refletir sobre os acontecimentos recentes e dessas viagens e aventuras ele mergulhou em uma
+Após a batalha com o Dragão de Prata Sylvie, a morte de Keyleth e os eventos que se seguiram, Caldriel decidiu se afastar temporariamente do grupo da Ordem do Crepúsculo e seguir sozinho pelo continente de Ember. Ele sentiu a necessidade de refletir sobre os acontecimentos recentes e dessas viagens e aventuras ele mergulhou em uma jornada de autodescoberta, buscando entender melhor a si mesmo, sua conexão com Luminara e os segredos que ainda cercam seu passado e o de Thadriel. Durante esse período, ele enfrentou novos desafios, fez novas alianças e continuou a aprimorar suas habilidades como paladino, sempre em busca de respostas e de um propósito maior.
+
+- [Os Anos na Frota Marcusiana](./os-anos-na-frota-marcusiana.md)
