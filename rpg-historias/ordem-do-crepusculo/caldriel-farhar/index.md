@@ -12,6 +12,7 @@ Após anos de aventuras e um período servindo a **Ordem do Crepúsculo**, Caldr
 
 > Para a história completa de origem, veja [backstory.md](backstory.md).
 > Para os anos na Frota Marcusiana, veja [os-anos-na-frota-marcusiana.md](os-anos-na-frota-marcusiana.md).
+> Para o Juramento Fraturado (tenets, mecânicas, progressão), veja [juramento-fraturado.md](juramento-fraturado.md).
 > Para ficha completa com atributos, skills e habilidades, veja [ficha.md](ficha.md).
 > Para referência de combate e ações, veja [combate.md](combate.md).
 
@@ -82,64 +83,7 @@ Luminara espera. Aguarda para ver se seu paladino encontrará seu próprio camin
 
 ## O Juramento Fraturado
 
-### Tenets do Juramento
-
-**Proteção Acima da Pureza**
-*O método importa menos que o resultado. Se o medo evita uma morte, use o medo.*
-
-**Misericórdia aos que Merecem**
-*Todo inimigo tem oportunidade de render-se. Todo culpado pode mudar. Mas nem todos escolhem.*
-
-**A Escuridão Serve a Luz**
-*Poderes sombrios não são malignos por natureza. O que importa é a mão que os empunha.*
-
-**Carregar o Fardo**
-*Se usar a escuridão corrompe a alma, então que corrompa a minha. Não permitirei que outros façam esse sacrifício.*
-
-**Misericórdia é Força**
-*Poupar um inimigo é mais difícil que derrotá-lo. A verdadeira força está em evitar a morte, não em causá-la.*
-
-!!! info "Morte nunca é a resposta final"
-    O Fraturado não pode matar um inimigo que possua traços de humanidade (mesmo que sejam cruéis ou malignos). O golpe final só é efetivo contra inimigos completamente desumanizados (mortos-vivos, monstros sem consciência). Inimigos humanos e sencientes devem ser incapacitados ou rendidos, não mortos.
-
-### Habilidades do Juramento Fraturado
-
-**Canalizar Divindade (2 usos / descanso curto):**
-
-1. **Aspecto do Crepúsculo** *(reflavor de Dreadful Aspect)*
-   - Presença intimidadora que não é terror sobrenatural, mas o peso de alguém que já viu o pior
-   - Criaturas em 9m fazem ST Sabedoria CD 16 ou ficam Amedrontadas por 1 minuto
-   - *Narrativa: Os olhos de Caldriel parecem conter sombras vivas.*
-
-2. **Rebuke the Violent**
-   - Quando uma criatura causa dano a outra, Caldriel pode fazer o agressor sofrer o mesmo dano radiante
-   - *Narrativa: "Sinta o que você causa."*
-
-**Aura de Proteção** *(desde o lv 6, 3m de raio)*
-- Aliados próximos ganham +4 (CAR) em todos os testes de resistência
-
-**Aura da Coragem** *(desde o lv 10, 3m de raio)*
-- Caldriel e aliados próximos são imunes a Medo
-
-### Magias do Juramento — Sempre Preparadas
-
-| Nível | Devoção *(eco)* | Oathbreaker *(marca)* | Redenção *(busca)* |
-|---|---|---|---|
-| 1º | Protection from Evil | Hellish Rebuke | Sanctuary |
-| 2º | Lesser Restoration | Crown of Madness | Calm Emotions |
-| 3º | Beacon of Hope | Animate Dead | Counterspell |
-| 4º | Freedom of Movement | Blight | Otiluke's Resilient Sphere |
-| 5º | Flame Strike | Dominate Person | Hold Monster |
-
-**Interpretação:** Caldriel tem acesso a poderes de luz (Devoção), sombrios (Oathbreaker), e de contenção (Redenção). A escolha de qual usar define quem ele está se tornando.
-
-### Conflito Mecânico
-
-A cada vez que usa uma magia ou habilidade de **Oathbreaker**, o DM pode pedir um teste de Sabedoria (CD 10 + nível da magia):
-- **Sucesso:** Mantém o controle, usa o poder sem culpa excessiva
-- **Falha:** Sofre 1 nível de exaustão emocional (desvantagem em testes de Carisma até próximo descanso longo)
-
-A cada vez que escolhe **poupar** um inimigo ou usar poderes de **Redenção**, pode recuperar essa exaustão.
+> Para tenets, habilidades, tabela completa de magias, conflito mecânico e progressão futura, veja [juramento-fraturado.md](juramento-fraturado.md).
 
 ---
 
@@ -190,19 +134,6 @@ A cada vez que escolhe **poupar** um inimigo ou usar poderes de **Redenção**, 
 
 ---
 
-## Arcos Possíveis
-
-### Caminho 1: Redenção Completa
-Através de um grande sacrifício, Caldriel abdica completamente dos poderes sombrios e recupera seu Juramento da Devoção (ou assume plenamente o Juramento da Redenção). Luminara o aceita de volta completamente.
-
-### Caminho 2: O Mártir da Luz
-Caldriel nunca se perdoa. Continua usando a escuridão para proteger outros, sacrificando sua própria alma. Luminara o aceita não como um paladino perfeito, mas como um guardião quebrado que escolheu carregar o fardo.
-
-### Caminho 3: O Guardião do Crepúsculo
-Caldriel se torna o equilíbrio entre luz e trevas. Um paladino que caminha onde a deusa não pode. Um símbolo de que a fé não é pureza — é **persistência**.
-
----
-
 ## Relações
 
 **Com a Ordem do Crepúsculo:**
@@ -237,5 +168,6 @@ E talvez, apenas talvez, esse seja o tipo de guardião que o mundo mais precisa.
 |---|---|
 | [backstory.md](backstory.md) | Origem, infância, treinamento, morte de Thadriel, aventuras (15–23 anos) |
 | [os-anos-na-frota-marcusiana.md](os-anos-na-frota-marcusiana.md) | Dois anos servindo à Frota Marcusiana, dilemas morais |
-| [ficha.md](ficha.md) | Atributos, skills, saving throws, habilidades de classe completas |
+| [juramento-fraturado.md](juramento-fraturado.md) | Tenets, habilidades, magias do juramento, conflito mecânico, progressão 11–20 |
+| [ficha.md](ficha.md) | Atributos, skills, saving throws, habilidades de classe, Thorfin |
 | [combate.md](combate.md) | Referência de combate: armas, ações, slots de magia, táticas |

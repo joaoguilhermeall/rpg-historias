@@ -1,4 +1,4 @@
-# Backstory de Caldriel Farhar
+# Backstory
 
 **Caldriel** é um paladino humano que cresceu isolado em uma casa de interior, sob a tutela de um mentor e com poucas amizades e conhecidos. Seu passado é envolto em mistérios sobre sua origem e sobre quem realmente era seu mentor.
 
@@ -22,13 +22,13 @@ Thadriel encontrou Caldriel sozinho em uma floresta, quando ainda era apenas um 
 
 ### Primeira Infância e Mudanças Constantes (0-11 anos)
 
-Caldriel cresceu em áreas marginais de grandes cidades sem muito luxo, mas também nunca lhe faltava nada. Era muito comum ter que, constantemente, mudar-se de região, sempre por algum motivo desconhecido. A maior parte da vida de Caldriel foi em uma pequena casa próxima à cidade de ${nome_da_cidade}, quando tinha quatro e cinco anos de idade.
+Caldriel cresceu em áreas marginais de grandes cidades sem muito luxo, mas também nunca lhe faltava nada. Era muito comum ter que, constantemente, mudar-se de região, sempre por algum motivo desconhecido. A maior parte da vida de Caldriel foi em uma pequena casa de madeira nos arredores de Basingue, uma das cidades livres, quando tinha quatro e cinco anos de idade.
 
 Durante esses anos, Thadriel foi a pessoa mais importante na vida de Caldriel - além de ser seu mentor, tutor e guia, também foi como um pai que sempre esteve com ele.
 
 ### Adolescência, Treinamento e Amizades (12-15 anos)
 
-Aos doze anos, Caldriel retornou à mesma casa próxima a ${nome_da_cidade}, onde permaneceria até os quinze anos. Junto a todas as mudanças, o crescimento de Caldriel era marcado pelos intensos treinamentos com Thadriel.
+Aos doze anos, Caldriel retornou à mesma casa nos arredores de Basingue, onde permaneceria até os quinze anos. Junto a todas as mudanças, o crescimento de Caldriel era marcado pelos intensos treinamentos com Thadriel.
 
 #### O Treinamento
 

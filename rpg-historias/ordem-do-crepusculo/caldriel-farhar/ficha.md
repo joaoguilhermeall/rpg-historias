@@ -1,4 +1,4 @@
-# Caldriel Farhar — Ficha do Personagem
+# Ficha do Personagem
 
 **Raça:** Humano &nbsp;|&nbsp; **Classe:** Paladino 10 &nbsp;|&nbsp; **Juramento:** Fraturado *(homebrew)*
 **Alinhamento:** Leal Neutro (em conflito) &nbsp;|&nbsp; **Divindade:** Luminara
@@ -11,6 +11,29 @@
 |---|---|---|---|---|---|
 | 18 (+4) | 10 (+0) | 16 (+3) | 8 (-1) | 10 (+0) | 18 (+4) |
 
+??? info "Histórico de atributos"
+    **Distribuição inicial** *(Array padrão: 15, 14, 13, 12, 10, 8)*
+
+    | Atributo | Base | Bônus Humano Variante | Lv 1 |
+    |---|---|---|---|
+    | FOR | 15 | +1 | **16** |
+    | DES | 10 | — | 10 |
+    | CON | 13 | +1 | **14** |
+    | INT | 8 | — | 8 |
+    | SAB | 12 | — | 12 |
+    | CAR | 14 | — | 14 |
+
+    **Talento de Lv 1 (Humano Variante):** Maestria em Arma de Haste *(Polearm Master)*
+
+    **Progressão de ASI:**
+
+    | Nível | Decisão | Atributo modificado |
+    |---|---|---|
+    | Lv 4 | +2 CAR | CAR 14 → **16** |
+    | Lv 8 | +2 FOR | FOR 16 → **18** |
+
+    *Demais variações nos atributos atuais (CON, CAR) a confirmar com DM — possivelmente via itens mágicos ou decisões de campanha.*
+
 ---
 
 ## Estatísticas de Combate
@@ -19,12 +42,20 @@
 |---|---|
 | **HP** | 85 (10d10 + 30) |
 | **CA** | 19 (armadura de placas + Estilo de Luta: Defesa) |
-| **CA com escudo** | 21 |
 | **Deslocamento** | 30 ft (9m) |
 | **Iniciativa** | +0 |
 | **Bônus de Proficiência** | +4 |
 | **Bônus de ataque (lanças)** | +11 (Dragão Gelido) / +10 (Backbiting) |
 | **CD das magias** | 16 (8 + Prof +4 + CAR +4) |
+
+??? info "Como a CA é calculada"
+    | Componente | Valor |
+    |---|---|
+    | Armadura de Placas | 18 |
+    | Estilo de Luta: Defesa *(+1 enquanto usar armadura)* | +1 |
+    | **CA base** | **19** |
+
+    Caldriel não usa escudo — o estilo dos Guardiões da Luz é sempre duas lanças.
 
 ---
 
@@ -34,11 +65,11 @@
 
 | Atributo | Bônus | Observação |
 |---|---|---|
-| Força | +8 | Proficiente (+4 FOR + +4 Prof) |
+| Força | +8 | Aura de Proteção (+4 FOR + +4 Aura) |
 | Destreza | +4 | Aura de Proteção (+0 DES + +4 Aura) |
 | Constituição | +7 | Aura de Proteção (+3 CON + +4 Aura) |
 | Inteligência | +3 | Aura de Proteção (-1 INT + +4 Aura) |
-| Sabedoria | +8 | Proficiente (+0 SAB + +4 Prof + +4 Aura) |
+| Sabedoria | +4 | Aura de Proteção (+0 SAB + +4 Aura) |
 | Carisma | +12 | Proficiente (+4 CAR + +4 Prof + +4 Aura) |
 
 ---
@@ -70,13 +101,13 @@
 
 ## Proficiências
 
-**Armaduras:** Leves, Médias, Pesadas, Escudos
+**Armaduras:** Leves, Médias, Pesadas
 
 **Armas:** Armas simples, Armas marciais
 
 **Ferramentas:** Nenhuma
 
-**Idiomas:** Comum, *(a definir com DM)*
+**Idiomas:** Comum, Élfico *(aprendido com Thadriel Farhar)*
 
 ---
 
@@ -175,7 +206,7 @@ Imune a doenças. *(efeito passivo permanente)*
 
 ### Lv 3 — Juramento Fraturado *(Sacred Oath — homebrew)*
 
-Veja detalhes completos em [index.md](index.md#o-juramento-fraturado).
+> Para tenets, tabela completa de magias, conflito mecânico e progressão futura, veja [juramento-fraturado.md](juramento-fraturado.md).
 
 **Canalizar Divindade (2 usos / descanso curto):**
 
@@ -185,25 +216,13 @@ Veja detalhes completos em [index.md](index.md#o-juramento-fraturado).
 
 | Habilidade | Ação | Efeito |
 |---|---|---|
-| **Aspecto do Crepúsculo** | Ação | Criaturas em 9m fazem ST SAB CD 16 ou ficam Amedrontadas por 1 minuto |
+| **Dreadful Aspect do Fraturado** | Ação | Criaturas em 9m fazem ST SAB CD 16 ou ficam Amedrontadas por 1 minuto |
 | **Rebuke the Violent** | Reação | Quando criatura em 9m danifica outra, agressor sofre o mesmo dano radiante (ST SAB CD 16) |
-
-**Magias do Juramento — sempre preparadas:**
-
-| Nível | Devoção *(eco)* | Oathbreaker *(marca)* | Redenção *(busca)* |
-|---|---|---|---|
-| 1º | Protection from Evil | Hellish Rebuke | Sanctuary |
-| 2º | Lesser Restoration | Crown of Madness | Calm Emotions |
-| 3º | Beacon of Hope | Animate Dead | Counterspell |
-| 4º | Freedom of Movement | Blight | Otiluke's Resilient Sphere |
-| 5º | Flame Strike | Dominate Person | Hold Monster |
-
-**Conflito Mecânico:** a cada uso de habilidade Oathbreaker, o DM pode pedir ST SAB (CD 10 + nível da magia). Falha = 1 nível de exaustão emocional (desvantagem em testes de CAR até descanso longo). Poupar inimigos ou usar poderes de Redenção recupera essa exaustão.
 
 ---
 
-### Lv 4 — Melhoria de Atributo / Talento *(ASI)*
-*(a definir — talento ou +2 em um atributo)*
+### Lv 4 — Melhoria de Atributo *(ASI)*
+**+2 CAR** — Carisma aumentou de 14 para 16, fortalecendo CD de magias e bônus de aura.
 
 ---
 
@@ -219,8 +238,8 @@ Caldriel e aliados conscientes em **3m** ganham **+4** (modificador de CAR) em t
 
 ---
 
-### Lv 8 — Melhoria de Atributo / Talento *(ASI)*
-*(a definir — talento ou +2 em um atributo)*
+### Lv 8 — Melhoria de Atributo *(ASI)*
+**+2 FOR** — Força aumentou de 16 para 18, maximizando o bônus de ataque e dano das lanças.
 
 ---
 
@@ -241,7 +260,10 @@ Caldriel e aliados conscientes em **3m** são **imunes à condição Amedrontado
 |---|---|---|---|
 | Bless | Ação | Sim | 3 criaturas ganham +1d4 em ataques e STs |
 | Command | Ação | Não | Alvo obedece uma palavra (Fuja, Caia, Pare…) |
+| Compelled Duel | Ação Bônus | Sim | Força inimigo a atacar apenas Caldriel (ST CAR CD 16); desvantagem em ataques contra aliados |
+| Detect Magic | Ação | Sim | Detecta presença de magia em 9m por 10 min |
 | Shield of Faith | Ação Bônus | Sim | +2 CA em uma criatura |
+| Wrathful Smite | Ação Bônus | Não | Próximo ataque causa +1d6 psíquico; alvo Amedrontado em falha (ST SAB CD 16) |
 
 ### Nível 2
 
@@ -249,6 +271,7 @@ Caldriel e aliados conscientes em **3m** são **imunes à condição Amedrontado
 |---|---|---|---|
 | Aid | Ação | Não | 3 aliados ganham +5 HP máximo e atual |
 | Find Steed | 10 min | Não | Invoca montaria aliada inteligente |
+| Zone of Truth | Ação | Não | Criaturas em 4,5m não conseguem mentir conscientemente (ST CAR CD 16) |
 
 ### Nível 3
 
@@ -258,3 +281,43 @@ Caldriel e aliados conscientes em **3m** são **imunes à condição Amedrontado
 | Revivify | Ação | Não | Revive aliado morto há menos de 60 segundos |
 
 *Para referência completa de quando e como usar cada magia em combate, veja [combate.md](combate.md).*
+
+---
+
+## Thorfin — O Lobo Atroz
+
+*Convocado via Find Steed. Thorfin não é uma montaria comum — é um companheiro consciente com quem Caldriel mantém um laço telepático.*
+
+### Ficha Resumida
+
+| Estatística | Valor |
+|---|---|
+| **CA** | 13 (armadura natural) |
+| **HP** | 37 (5d10 + 10) |
+| **Velocidade** | 50 ft (15m) |
+| **FOR / DES / CON** | 17 (+3) / 15 (+2) / 15 (+2) |
+| **INT / SAB / CAR** | 3 (-4) / 12 (+1) / 7 (-2) |
+| **Percepção Passiva** | 13 |
+| **Sentidos** | Visão no escuro 60 ft |
+
+### Ataques
+
+| Ataque | Bônus | Dano | Efeito |
+|---|---|---|---|
+| **Mordida** | +5 | 2d6 + 3 perfurante | ST FOR CD 13 ou alvo cai **Prostrado** |
+
+### Habilidades Especiais
+
+**Ataque em Matilha:** vantagem em ataques contra criaturas que tenham pelo menos um aliado adjacente.
+
+**Laço Telepático (Find Steed):** Thorfin e seu conjurador se comunicam telepaticamente dentro de **1 milha**. Thorfin pode agir de forma independente ou receber comandos sem usar ação. Ambos partilham magias com alcance "você mesmo" quando montados.
+
+### Papel em Combate
+
+- **Flanqueamento:** posiciona-se no lado oposto para conceder vantagem nos ataques
+- **Trip Attack (Mordida):** derruba alvos para facilitar Topple da Lança do Dragão Gelido
+- **Locomoção:** 50 ft de velocidade compensa o deslocamento de 30 ft de Caldriel em perseguições
+
+### Nota Narrativa
+
+Thorfin foi convocado durante os anos na Frota Marcusiana. Silencioso e territorialista, o lobo demonstra lealdade absoluta — mas apenas a Caldriel. Não late, não rosna sem motivo. Observa com os mesmos olhos pesados do seu mestre.

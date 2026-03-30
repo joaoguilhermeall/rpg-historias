@@ -1,4 +1,4 @@
-# Caldriel Farhar — Referência de Combate
+# Referência de Combate
 
 > *"Não luto pela luz. Luto para que ela não precise descer até aqui."*
 
@@ -11,7 +11,7 @@
 | **Bônus de ataque** | +8 (FOR +4 / Prof +4) + bônus mágico da arma |
 | **CD das magias** | 16 (8 + Prof +4 + CAR +4) |
 | **Iniciativa** | +0 (DES) |
-| **CA** | 19 (armadura) / 21 (com escudo) / 23 (Shield of Faith + escudo) |
+| **CA** | 19 (armadura) / 21 (Shield of Faith, concentração) |
 | **HP** | 85 |
 | **Velocidade** | 30 ft (9m) |
 
@@ -29,7 +29,7 @@
 | **Dano** | 1d10 + 7 perfurante (+4 FOR + 3 mágico) |
 | **Versátil (duas mãos)** | 1d10 + 7 |
 | **Arremesso** | Curto 6m / Longo 18m |
-| **Propriedades** | Arremesso, Alcance, Topple |
+| **Propriedades** | Arremesso, Alcance, Topple, Gelo Dracônico |
 
 > **Topple:** quando acertar, o alvo deve passar em um teste de Constituição CD 16 ou cair Prostrado. Aliados têm vantagem em ataques corpo a corpo contra alvos Prostrados.
 
@@ -68,27 +68,24 @@ Caldriel é um paladino de controle e proteção. Seu papel no grupo não é ape
 
 ### Configurações de combate
 
-#### Defensiva — *"Muro de Aço"*
-- **Equipamento:** Spear of Backbiting + Escudo — CA **21** / **23** (com Shield of Faith)
-- **Quando usar:** combates prolongados, proteção de aliados, inimigos que causam muito dano
-
 #### Ofensiva — *"As Duas Lanças"*
-- **Equipamento:** Lança do Dragão Gelido (mão principal) + Spear of Backbiting — CA **19**
+- **Equipamento:** Lança do Dragão Gelido (mão principal) + Spear of Backbiting (mão secundária) — CA **19**
 - **Quando usar:** inimigos grandes, chefes, quando precisa maximizar dano
+- **Nota:** o segundo ataque com a Spear of Backbiting usa a **ação bônus** de Two-Weapon Fighting — a Spear tem a propriedade Leve, tornando isso válido. O dano do ataque bônus não recebe o modificador de FOR.
 
 #### Flexível — *"Lança Única"*
 - **Equipamento:** Lança do Dragão Gelido (duas mãos) — CA **19**
-- **Quando usar:** espaço aberto, inimigos a distância, quando o alcance importa
+- **Quando usar:** espaço aberto, inimigos a distância, quando o alcance e o dado maior importam (1d10 vs 1d6)
 
 ---
 
 ### Combos de combate
 
 #### "Muro Implacável" *(sobrevivência máxima)*
-1. Lance **Shield of Faith** (ação bônus) → CA 23
-2. Use **Compelled Duel** no inimigo mais forte → ele só pode te atacar
+1. Lance **Shield of Faith** (ação bônus) → CA 21
+2. Use **Compelled Duel** *(ver [ficha.md](ficha.md))* no inimigo mais forte → ele só pode atacar você
 3. Tanque o dano enquanto aliados eliminam os demais
-- *Resultado: CA 23, ST Sabedoria +8, ST Carisma +12 — quase invulnerável*
+- *Resultado: CA 21, ST Carisma +12 — concentra ameaças longe dos aliados*
 
 #### "Justiça Radiante" *(dano máximo)*
 1. Use Topple ou flanqueie para derrubar o alvo
@@ -103,7 +100,7 @@ Caldriel é um paladino de controle e proteção. Seu papel no grupo não é ape
 4. Use Lay on Hands conforme necessário
 
 #### "Terror Crepuscular" *(controle de campo — sem gastar slots)*
-1. No início do combate: **Dreadful Aspect** (Canal Divino)
+1. No início do combate: **Dreadful Aspect do Fraturado** (Canal Divino)
 2. Todos os inimigos em 9m fazem ST Sabedoria CD 16
 3. Falha → Amedrontados por 1 minuto (desvantagem em ataques)
 4. Aliados em flanqueamento ganham vantagem contra os amedrontados
@@ -139,14 +136,16 @@ Cada ataque pode ser seguido de **Divine Smite** gastando um slot de magia **ap�
 |---|---|---|---|---|
 | **Bless** | 1º | Ação | 3 criaturas ganham +1d4 em ataques e STs | Início do combate, sempre que possível |
 | **Command** | 1º | Ação | Alvo obedece uma palavra (Fuja, Caia, Pare…) | Separar, desorientar, criar aberturas |
+| **Detect Magic** | 1º | Ação | Detecta presença de magia em 9m (concentração, 10 min) | Exploração, identificar itens, detectar armadilhas mágicas |
 | **Protection from Evil** | 1º | Ação | +2 CA e STs contra mortos-vivos, aberrações, demônios | Combates contra criaturas do plano inferior |
 | **Sanctuary** | 1º | Ação Bônus | Atacantes precisam passar ST SAB para te atingir | Escapar, proteger aliado fragilizado |
 | **Shield of Faith** | 1º | Ação Bônus | +2 CA (concentração) | Qualquer momento de aperto |
 | **Aid** | 2º | Ação | 3 aliados ganham +5 HP máximo e atual | Antes de combate pesado |
 | **Calm Emotions** | 2º | Ação | Anula charme/medo em aliados (concentração) | Contra inimigos com controle de mente |
 | **Crown of Madness** | 2º | Ação | Controla um humanoide (concentração) | Virar inimigo contra seus aliados |
-| **Find Steed** | 2º | 10 min | Invoca montaria aliada inteligente | Mobilidade, campanhas longas |
+| **Find Steed** | 2º | 10 min | Invoca montaria aliada inteligente (Thorfin) | Mobilidade, flanqueamento, campanhas longas |
 | **Lesser Restoration** | 2º | Ação | Cura 1 condição (envenenado, cego, paralisado…) | Utilidade, fora de combate |
+| **Zone of Truth** | 2º | Ação | Criaturas em 4,5m não conseguem mentir (ST CAR CD 16) | Interrogatório, negociação, verificar lealdade |
 | **Aura of Vitality** | 3º | Ação | Cura 2d6 por ação bônus por rodada (concentração, 1 min) | Combates longos, manter aliados vivos |
 | **Beacon of Hope** | 3º | Ação | Aliados têm vantagem em ST SAB e recuperam HP máximo (concentração) | Combates de desgaste |
 | **Animate Dead** | 3º | 1 min | Cria até 2 esqueletos/zumbis aliados | Reforço, distração |
@@ -174,7 +173,8 @@ Cada ataque pode ser seguido de **Divine Smite** gastando um slot de magia **ap�
 |---|---|---|---|
 | **Shield of Faith** | Lv 1 | Slot de 1º nível | +2 CA para você ou aliado (concentração) |
 | **Sanctuary** | Lv 1 | Slot de 1º nível | Proteção de ataque contra você ou aliado |
-| **Wrathful Smite** | Lv 1 | Slot de 1º nível | Próximo ataque: +1d6 psíquico, alvo amedrontado (ST SAB) |
+| **Compelled Duel** | Lv 1 | Slot de 1º nível (concentração) | Força inimigo a atacar apenas Caldriel (ST CAR CD 16); desvantagem em ataques contra aliados |
+| **Wrathful Smite** | Lv 1 | Slot de 1º nível | Próximo ataque: +1d6 psíquico, alvo amedrontado (ST SAB CD 16) |
 | **Aura of Vitality** | Lv 9 | Slot de 3º nível (ativo) | Cura 2d6 HP em uma criatura em 9m |
 | **Segunda lança** | Lv 1 | Dual wield com arma leve | Ataque adicional com Spear of Backbiting (sem FOR no dano) |
 
@@ -212,7 +212,7 @@ Cada ataque pode ser seguido de **Divine Smite** gastando um slot de magia **ap�
 
 | Habilidade | Ação | Efeito |
 |---|---|---|
-| **Dreadful Aspect** | Ação | Criaturas em 9m fazem ST SAB CD 16 ou ficam Amedrontadas por 1 minuto |
+| **Dreadful Aspect do Fraturado** | Ação | Criaturas em 9m fazem ST SAB CD 16 ou ficam Amedrontadas por 1 minuto |
 | **Rebuke the Violent** | Reação | Quando criatura em 9m danifica outra, o agressor sofre o mesmo dano radiante |
 
 ---
@@ -247,10 +247,13 @@ Nível 3  — [ ][ ]   ⚠ Reservar 1 para Revivify
 |---|---|---|---|
 | Bless | Concentração | Ação | 1 min |
 | Command | — | Ação | 1 rodada |
+| Compelled Duel | Concentração | Ação Bônus | 1 min |
+| Detect Magic | Concentração | Ação | 10 min |
 | Hellish Rebuke | — | Reação | Instantâneo |
 | Protection from Evil and Good | Concentração | Ação | 10 min |
 | Sanctuary | — | Ação Bônus | 1 min |
 | Shield of Faith | Concentração | Ação Bônus | 10 min |
+| Wrathful Smite | — | Ação Bônus | 1 min |
 
 ---
 
@@ -263,6 +266,7 @@ Nível 3  — [ ][ ]   ⚠ Reservar 1 para Revivify
 | Crown of Madness | Concentração | Ação | 1 min |
 | Find Steed | — | 10 min | Instantâneo |
 | Lesser Restoration | — | Ação | Instantâneo |
+| Zone of Truth | — | Ação | 10 min |
 
 ---
 
