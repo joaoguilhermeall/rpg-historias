@@ -317,7 +317,3 @@ Caldriel e aliados conscientes em **3m** são **imunes à condição Amedrontado
 - **Flanqueamento:** posiciona-se no lado oposto para conceder vantagem nos ataques
 - **Trip Attack (Mordida):** derruba alvos para facilitar Topple da Lança do Dragão Gelido
 - **Locomoção:** 50 ft de velocidade compensa o deslocamento de 30 ft de Caldriel em perseguições
-
-### Nota Narrativa
-
-Thorfin foi convocado durante os anos na Frota Marcusiana. Silencioso e territorialista, o lobo demonstra lealdade absoluta — mas apenas a Caldriel. Não late, não rosna sem motivo. Observa com os mesmos olhos pesados do seu mestre.
